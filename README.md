@@ -69,8 +69,8 @@ The project is laid out as follows. The `pages` and `components` directories are
 - **Developers**: Fork and PR as usual, even the CMS-managed data files under `_entries`. Merges to `master` will result in a deployment.
 - **Editors**: Use the [CMS][netlify_cms]. A signup with Netlify Identity may be required.
 
-[static_site_deployment]: https://goofy-kare-010333.netlify.com
-[static_site_slideshow]: https://goofy-kare-010333.netlify.com/slideshow
-[netlify_cms]: https://goofy-kare-010333.netlify.com/admin/#/
-[netlify_admin]: https://app.netlify.com/sites/goofy-kare-010333/overview
+[static_site_deployment]: https://artsy-history.netlify.com
+[static_site_slideshow]: https://artsy-history.netlify.com/slideshow
+[netlify_cms]: https://artsy-history.netlify.com/admin/#/
+[netlify_admin]: https://app.netlify.com/sites/artsy-history/overview
 [anandaroop]: https://github.com/anandaroop
